@@ -1,0 +1,29 @@
+Welcome!
+>>> import (main.txt)
+>>> pi
+3.14159
+>>> double(2)
+4.0
+>>> x
+x : No such variable.
+>>> x = 2
+>>> x + 3
+5.0
+>>> -x
+-2.0
+>>> Func sq(x) : x^2
+>>> sq(3)
+9.0
+>>> x = 3
+>>> x
+3.0
+>>> Func
+Syntax error.
+>>> import
+Syntax error.
+>>> 2 +
+Syntax error.
+>>> -8
+-8.0
+>>> exit
+Thank you!
